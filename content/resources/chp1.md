@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bac52feb-fdf3-e0d1-4e31-ee4c7c5e3445
 resourcetype: Document
 title: chp1.pdf
 uid: f79dc43e-2d6d-6609-679b-2ce020a6f778
