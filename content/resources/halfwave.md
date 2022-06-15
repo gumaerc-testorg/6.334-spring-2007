@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
-file: /media/courses/6-334-power-electronics-spring-2007/31f59d883e083f2cf27872beb6a0b4b5_halfwave.cir
+file: /courses/6-334-power-electronics-spring-2007/31f59d883e083f2cf27872beb6a0b4b5_halfwave.cir
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: halfwave.cir
 uid: 31f59d88-3e08-3f2c-f278-72beb6a0b4b5
 ---
+Supporting file for PSPICE Simulation software.
+

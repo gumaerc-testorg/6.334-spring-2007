@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
-file: /media/courses/6-334-power-electronics-spring-2007/2df8275174641713458396307310adfc_RL_load.cir
+file: /courses/6-334-power-electronics-spring-2007/2df8275174641713458396307310adfc_RL_load.cir
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: RL_load.cir
 uid: 2df82751-7464-1713-4583-96307310adfc
 ---
+Supporting file for PSPICE Simulation software.
+

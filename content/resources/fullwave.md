@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
-file: /media/courses/6-334-power-electronics-spring-2007/c5abd7c575eef7e9541c927e19d8e31b_fullwave.cir
+file: /courses/6-334-power-electronics-spring-2007/c5abd7c575eef7e9541c927e19d8e31b_fullwave.cir
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: fullwave.cir
 uid: c5abd7c5-75ee-f7e9-541c-927e19d8e31b
 ---
+Supporting file for PSPICE Simulation software.
+
