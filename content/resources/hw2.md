@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/b991c8c571478d70dafef869a1cfb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on boost converters, power flow, and factors that influence sizing of the passive components in practical power converters.
-

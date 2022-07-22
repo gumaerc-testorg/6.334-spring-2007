@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/e284d4516feed7a0d623d1a0f634a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on an isolated SEPIC converter, an 50 W off-line converter, and a forward converter with an active clamp.
-

@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/e9d7d5e6a5edace8230f01b0b6c20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Handwritten lecture notes on modeling and control, direct circuit averaging, state-space averaging, linearization, and control design.
-

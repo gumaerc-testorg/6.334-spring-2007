@@ -7,6 +7,7 @@ file: /courses/6-334-power-electronics-spring-2007/5e2f970d6c7c0ad911c62677e1b9f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Handwritten lecture notes with an introduction to magnetics, Ampere's law, Faraday's law, flux continuity, the design of an inductor, flux computation, reluctance models, transformers, and inductor design tips.
-

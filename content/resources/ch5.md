@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/888fe7fe65dbb6f11dc903f8caaa3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on DC/DC converters, Kirchhoff's voltage law, Kirchhoff's current law, and periodic steady state conditions.
-

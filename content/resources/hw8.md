@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/72c792a0a242e1654df7af8e54ddf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on the efficiency of a matching network with a resistive load of 75 Ohms, and a describing function approach.
-

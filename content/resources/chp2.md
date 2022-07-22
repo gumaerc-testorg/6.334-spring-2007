@@ -5,6 +5,7 @@ file: /courses/6-334-power-electronics-spring-2007/0628c2bcc2c6922aa21b9f5145708
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on rectifiers, load regulation, and analysis methods.
-

@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/7f8d6364d64a634bcdd8001871d28
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on power factor, total harmonic distortion, passive power factor compensation, and the displacement factor component of power factor.
-

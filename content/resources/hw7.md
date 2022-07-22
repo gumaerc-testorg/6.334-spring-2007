@@ -6,6 +6,7 @@ file: /courses/6-334-power-electronics-spring-2007/ffb98d5f029c3a74a8ee0191588bd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on resonant pole inverters, the International Rectifier power MOSFET IRF620S, and power dissipation.
-

@@ -7,6 +7,7 @@ file: /courses/6-334-power-electronics-spring-2007/62f391a56d14d3eed360136016e1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Handwritten lecture notes on Fourier series review, inverter structure, programmed PWM, harmonic cancellation, multi-level converters, sine-triangle PWM, and inverter current control techniques.
-
