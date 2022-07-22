@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section provides the schedule of lecture topics and key
+  dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ecc49a23-2716-ef97-d0b8-e707d4c6bd6d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 AC = alternate current  
