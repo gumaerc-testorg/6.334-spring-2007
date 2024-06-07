@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on single-ended primary inductor converters, energy storage
   requirements, discontinuous conduction mode converters, and magnetic circuit models.
 file: /courses/6-334-power-electronics-spring-2007/eb44001505d39c833857c7b38e33ab0f_hw3.pdf
+file_size: 146118
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on switching power electronics, analysis of techniques,
   and periodic steady state.
 file: /courses/6-334-power-electronics-spring-2007/f79dc43e2d6d6609679b2ce020a6f778_chp1.pdf
+file_size: 146980
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
