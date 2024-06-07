@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
 file: /courses/6-334-power-electronics-spring-2007/c5abd7c575eef7e9541c927e19d8e31b_fullwave.cir
+file_size: 442
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on buck converters and boost converters.
 file: /courses/6-334-power-electronics-spring-2007/a3ddc25f6aba7e98119c257430a32407_hw9.pdf
+file_size: 28670
 file_type: application/pdf
 learning_resource_types:
 - Assignments

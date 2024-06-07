@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
 file: /courses/6-334-power-electronics-spring-2007/81d1c77cc811649b9177be5213b1c3e4_idealdiode.slb
+file_size: 649
 file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

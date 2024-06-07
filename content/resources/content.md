@@ -2,6 +2,7 @@
 content_type: resource
 description: Title page and table of contents from the course lecture notes.
 file: /courses/6-334-power-electronics-spring-2007/3a361ea36eebd72f804991dcb713c90d_content.pdf
+file_size: 68749
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
