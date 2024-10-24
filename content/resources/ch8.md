@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten lecture notes on modeling and control, direct circuit averaging,
   state-space averaging, linearization, and control design.
-file: /courses/6-334-power-electronics-spring-2007/e9d7d5e6a5edace8230f01b0b6c20f8f_ch8.pdf
+file: /ol-ocw-studio-app/courses/6-334-power-electronics-spring-2007/e9d7d5e6a5edace8230f01b0b6c20f8f_ch8.pdf
 file_size: 1949233
 file_type: application/pdf
 learning_resource_types:
