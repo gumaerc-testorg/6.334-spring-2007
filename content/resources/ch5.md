@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on DC/DC converters, Kirchhoff's voltage law, Kirchhoff's
   current law, and periodic steady state conditions.
-file: /ol-ocw-studio-app/courses/6-334-power-electronics-spring-2007/888fe7fe65dbb6f11dc903f8caaa38f3_ch5.pdf
+file: /courses/6-334-power-electronics-spring-2007/888fe7fe65dbb6f11dc903f8caaa38f3_ch5.pdf
 file_size: 282155
 file_type: application/pdf
 learning_resource_types:
