@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on an isolated SEPIC converter, an 50 W off-line converter,
   and a forward converter with an active clamp.
-file: /ol-ocw-studio-app/courses/6-334-power-electronics-spring-2007/e284d4516feed7a0d623d1a0f634ae51_hw5.pdf
+file: /courses/6-334-power-electronics-spring-2007/e284d4516feed7a0d623d1a0f634ae51_hw5.pdf
 file_size: 130496
 file_type: application/pdf
 learning_resource_types:
