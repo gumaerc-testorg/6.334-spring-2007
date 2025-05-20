@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for PSPICE Simulation software.
-file: /ol-ocw-studio-app/courses/6-334-power-electronics-spring-2007/0ed41b181798b71de05eb7b1ec783e51_idealdiode.lib
+file: /courses/6-334-power-electronics-spring-2007/0ed41b181798b71de05eb7b1ec783e51_idealdiode.lib
 file_size: 386
 file_type: text/plain
 learning_resource_types: []
