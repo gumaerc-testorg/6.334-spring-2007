@@ -15,9 +15,9 @@ video_metadata:
 ---
 ## PSPICE Simulation Information
 
-Download the Microsim (now known as Orcad) DesignLab Release 8 Evaluation version, containing both Schematics and PSpice for PCs. A more up-to-date version can be downloaded from [OrCAD](http://www.orcad.com/).
+Download the Microsim (now known as Orcad) DesignLab Release 8 Evaluation version, containing both Schematics and PSpice for PCs. A more up-to-date version can be downloaded from {{% resource_link "5ffe336e-fa29-4720-8411-b8a17c74305a" "OrCAD" %}}.
 
-[Spice tutorial](http://homepage.seas.upenn.edu/~jan/spice/spice.overview.html) (courtesy of University of Pennsylvania Department of Electrical Engineering). In particular, see [How to Get Started with PSpice](http://homepage.seas.upenn.edu/~jan/spice/spice.guide.html#PSPICE).
+{{% resource_link "dfc6fb76-b4c4-43d0-b15d-707a8f00adda" "Spice tutorial" %}} (courtesy of University of Pennsylvania Department of Electrical Engineering). In particular, see {{% resource_link "a5766352-a12c-4061-9bfc-704e285af989" "How to Get Started with PSpice" %}}.
 
 ### (Almost) Ideal Diode Model
 
@@ -38,7 +38,7 @@ Another SPICE simulator that may be used is LTSPICE/SwitcherCAD III, developed b
 
 ## PSIM Power Electronics Simulator
 
-Try out the PSIM power electronics simulator for free! A demo version is available from [POWERSIM](http://www.powersimtech.com/).
+Try out the PSIM power electronics simulator for free! A demo version is available from {{% resource_link "f78bf38e-2dc8-4578-9d3c-915b49275ede" "POWERSIM" %}}.
 
 ## More Free Resources
 
